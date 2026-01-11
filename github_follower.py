@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""GitHub Follow Manager - Sync your followers and following."""
+"""GitHub Follower and Unfollower - Sync your followers and following."""
 
 import requests
 
